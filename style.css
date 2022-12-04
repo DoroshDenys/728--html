@@ -10,3 +10,19 @@ body{
 .text1{
     font-size: 30px;
 }
+.m{
+    display: flex;
+    flex: 1 1;
+}
+.ul1{
+    flex: 1 1;
+    font-size: 24px;
+}
+.ul2{
+    flex: 1 1;
+    font-size: 24px;
+}
+.ol{
+    flex: 1 1;
+    font-size: 24px;
+}
